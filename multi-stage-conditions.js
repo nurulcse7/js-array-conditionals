@@ -14,4 +14,4 @@ else if(toastBiscuit < money){
 }
 else {
     console.log('Khali cha e sasther jonno valo')
-}
+} // print Dan Dan danish khamu

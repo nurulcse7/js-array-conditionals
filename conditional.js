@@ -36,4 +36,4 @@ if(chickenPrice < myMoney) {
 }
 else{
     console.log('I will eat potato');
-}
+} // print I will eat potato

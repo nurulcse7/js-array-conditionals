@@ -17,13 +17,13 @@
 var num1 = 56;
 var num2 = 89;
 
-console.log( num1 < num2);
-console.log( num1 > num2);
-console.log( num1 === num2);
-console.log( num1 !== num2);
-console.log( num1 >= num2);
-console.log( num1 <= num2);
+console.log( num1 < num2); // print  true
+console.log( num1 > num2); // print  false
+console.log( num1 === num2); // print  false
+console.log( num1 !== num2); // print  true
+console.log( num1 >= num2); // (greater than or equal)// print  false
+console.log( num1 <= num2); // (less than or equal) // print true
 
 // multiple conditions
-// money1 > money2 && result1 > result2 && height1 > height2
+money1 > money2 && result1 > result2 && height1 > height2
 money1 > money2 || result1 > result2 || height1 > height2
